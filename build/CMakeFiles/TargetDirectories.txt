@@ -1,0 +1,3 @@
+/home/xavi/STR _Practicas/P2_Hilos/ejercicio3/build/CMakeFiles/main.dir
+/home/xavi/STR _Practicas/P2_Hilos/ejercicio3/build/CMakeFiles/edit_cache.dir
+/home/xavi/STR _Practicas/P2_Hilos/ejercicio3/build/CMakeFiles/rebuild_cache.dir
